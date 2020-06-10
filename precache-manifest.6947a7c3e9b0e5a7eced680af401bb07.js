@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8434bee883706c6110fd8d28cfac1ecc",
+    "revision": "38238217ad54ec6ce8f86d4b7ce56fdc",
     "url": "/AldinPortfolio/index.html"
   },
   {
-    "revision": "f57b95a9868c55499d7d",
+    "revision": "35cd5e0093a22979556a",
     "url": "/AldinPortfolio/static/css/2.9de105d4.chunk.css"
   },
   {
-    "revision": "eafd923e59f3cc8f1b82",
-    "url": "/AldinPortfolio/static/css/main.8980553a.chunk.css"
+    "revision": "1106535e995282bd9472",
+    "url": "/AldinPortfolio/static/css/main.765c6548.chunk.css"
   },
   {
-    "revision": "f57b95a9868c55499d7d",
-    "url": "/AldinPortfolio/static/js/2.539828ce.chunk.js"
+    "revision": "35cd5e0093a22979556a",
+    "url": "/AldinPortfolio/static/js/2.b7dd55b6.chunk.js"
   },
   {
     "revision": "531d7b2065717e21d8dbdd1394bf24a4",
-    "url": "/AldinPortfolio/static/js/2.539828ce.chunk.js.LICENSE.txt"
+    "url": "/AldinPortfolio/static/js/2.b7dd55b6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eafd923e59f3cc8f1b82",
-    "url": "/AldinPortfolio/static/js/main.db72b3b4.chunk.js"
+    "revision": "1106535e995282bd9472",
+    "url": "/AldinPortfolio/static/js/main.6bf1842d.chunk.js"
   },
   {
     "revision": "be7ba7b64956c43ccbbc",
@@ -34,5 +34,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1a22cd5df5e1df6d6fbe800750a99bbe",
     "url": "/AldinPortfolio/static/media/calculatorImg.1a22cd5d.png"
+  },
+  {
+    "revision": "6755fd1038ed549eba19e6e5a4c5f67b",
+    "url": "/AldinPortfolio/static/media/mobile-clouds-night.6755fd10.jpg"
   }
 ]);
