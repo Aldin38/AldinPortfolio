@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AldinPortfolio/static/css/main.765c6548.chunk.css",
-    "main.js": "/AldinPortfolio/static/js/main.6bf1842d.chunk.js",
-    "main.js.map": "/AldinPortfolio/static/js/main.6bf1842d.chunk.js.map",
+    "main.js": "/AldinPortfolio/static/js/main.7c2bc6d3.chunk.js",
+    "main.js.map": "/AldinPortfolio/static/js/main.7c2bc6d3.chunk.js.map",
     "runtime-main.js": "/AldinPortfolio/static/js/runtime-main.a0cee829.js",
     "runtime-main.js.map": "/AldinPortfolio/static/js/runtime-main.a0cee829.js.map",
     "static/css/2.9de105d4.chunk.css": "/AldinPortfolio/static/css/2.9de105d4.chunk.css",
     "static/js/2.b7dd55b6.chunk.js": "/AldinPortfolio/static/js/2.b7dd55b6.chunk.js",
     "static/js/2.b7dd55b6.chunk.js.map": "/AldinPortfolio/static/js/2.b7dd55b6.chunk.js.map",
     "index.html": "/AldinPortfolio/index.html",
-    "precache-manifest.6947a7c3e9b0e5a7eced680af401bb07.js": "/AldinPortfolio/precache-manifest.6947a7c3e9b0e5a7eced680af401bb07.js",
+    "precache-manifest.deb9b58c28045ef9aa1e284b718f01c3.js": "/AldinPortfolio/precache-manifest.deb9b58c28045ef9aa1e284b718f01c3.js",
     "service-worker.js": "/AldinPortfolio/service-worker.js",
     "static/css/2.9de105d4.chunk.css.map": "/AldinPortfolio/static/css/2.9de105d4.chunk.css.map",
     "static/css/main.765c6548.chunk.css.map": "/AldinPortfolio/static/css/main.765c6548.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.9de105d4.chunk.css",
     "static/js/2.b7dd55b6.chunk.js",
     "static/css/main.765c6548.chunk.css",
-    "static/js/main.6bf1842d.chunk.js"
+    "static/js/main.7c2bc6d3.chunk.js"
   ]
 }
