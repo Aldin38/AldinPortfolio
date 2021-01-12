@@ -1,28 +1,30 @@
 {
   "files": {
     "main.css": "/AldinPortfolio/static/css/main.2e0dafd8.chunk.css",
-    "main.js": "/AldinPortfolio/static/js/main.b084f8fa.chunk.js",
-    "main.js.map": "/AldinPortfolio/static/js/main.b084f8fa.chunk.js.map",
+    "main.js": "/AldinPortfolio/static/js/main.ecc93d81.chunk.js",
+    "main.js.map": "/AldinPortfolio/static/js/main.ecc93d81.chunk.js.map",
     "runtime-main.js": "/AldinPortfolio/static/js/runtime-main.a0cee829.js",
     "runtime-main.js.map": "/AldinPortfolio/static/js/runtime-main.a0cee829.js.map",
     "static/css/2.9de105d4.chunk.css": "/AldinPortfolio/static/css/2.9de105d4.chunk.css",
-    "static/js/2.b7dd55b6.chunk.js": "/AldinPortfolio/static/js/2.b7dd55b6.chunk.js",
-    "static/js/2.b7dd55b6.chunk.js.map": "/AldinPortfolio/static/js/2.b7dd55b6.chunk.js.map",
+    "static/js/2.6ece7c6f.chunk.js": "/AldinPortfolio/static/js/2.6ece7c6f.chunk.js",
+    "static/js/2.6ece7c6f.chunk.js.map": "/AldinPortfolio/static/js/2.6ece7c6f.chunk.js.map",
     "index.html": "/AldinPortfolio/index.html",
-    "precache-manifest.9b963c78dc0f719d67b5218c5d74d84e.js": "/AldinPortfolio/precache-manifest.9b963c78dc0f719d67b5218c5d74d84e.js",
+    "precache-manifest.8e08aefd08a42e76a08bf10363c72c8e.js": "/AldinPortfolio/precache-manifest.8e08aefd08a42e76a08bf10363c72c8e.js",
     "service-worker.js": "/AldinPortfolio/service-worker.js",
     "static/css/2.9de105d4.chunk.css.map": "/AldinPortfolio/static/css/2.9de105d4.chunk.css.map",
     "static/css/main.2e0dafd8.chunk.css.map": "/AldinPortfolio/static/css/main.2e0dafd8.chunk.css.map",
-    "static/js/2.b7dd55b6.chunk.js.LICENSE.txt": "/AldinPortfolio/static/js/2.b7dd55b6.chunk.js.LICENSE.txt",
+    "static/js/2.6ece7c6f.chunk.js.LICENSE.txt": "/AldinPortfolio/static/js/2.6ece7c6f.chunk.js.LICENSE.txt",
     "static/media/body.css": "/AldinPortfolio/static/media/backGroundImg.0fe6ac84.jpg",
+    "static/media/bbgard.png": "/AldinPortfolio/static/media/bbgard.ab52611e.png",
     "static/media/calculatorImg.png": "/AldinPortfolio/static/media/calculatorImg.1a22cd5d.png",
+    "static/media/ekoforma.png": "/AldinPortfolio/static/media/ekoforma.bfdf8e9c.png",
     "static/media/mobile-clouds-night.jpg": "/AldinPortfolio/static/media/mobile-clouds-night.6755fd10.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a0cee829.js",
     "static/css/2.9de105d4.chunk.css",
-    "static/js/2.b7dd55b6.chunk.js",
+    "static/js/2.6ece7c6f.chunk.js",
     "static/css/main.2e0dafd8.chunk.css",
-    "static/js/main.b084f8fa.chunk.js"
+    "static/js/main.ecc93d81.chunk.js"
   ]
 }
